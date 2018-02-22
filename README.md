@@ -1,5 +1,5 @@
 # hw3
-## Форма опроса:
+_Форма опроса_:
 
 https://docs.google.com/forms/d/1VBxwe0FVHsJClJB_rUX8dhM21RhJYYwgJJeGzBtf_5I/edit
 
@@ -18,7 +18,7 @@ https://docs.google.com/forms/d/1VBxwe0FVHsJClJB_rUX8dhM21RhJYYwgJJeGzBtf_5I/edi
 
 Далее у каждого из участиков была возможность оценить пройденый опрос.
 
-## Форма таблицы:
+_Форма таблицы_:
 
 https://docs.google.com/spreadsheets/d/1GFOZxxAB1ZoqIHq99pNPtT9Uzlvj3dT-_h_VDH3wlXg/edit#gid=1267721613&fvid=6618951
 
